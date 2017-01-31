@@ -1,4 +1,6 @@
-# Project : Train a Smartcab How to Drive using Reinforcement Learning
+# Project : Reinforcement Learning
+
+## Train a Smartcab How to Drive
 
 ### Install
 
